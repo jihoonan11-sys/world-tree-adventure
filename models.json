@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "models": [
+    {
+      "key": "player",
+      "tag": "v0.1-assets",
+      "asset": "Meshy_AI_Adventurer_Mage_20261111_animated_mixamo_All_animation.glb",
+      "size": 42276076,
+      "sha256": "cc33531f99c7ce61853d19d0a28638ddcc2103091056a1633b8c1ef54f4774cb"
+    }
+  ]
+}
